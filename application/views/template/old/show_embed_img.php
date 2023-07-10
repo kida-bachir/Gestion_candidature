@@ -1,0 +1,1 @@
+<img src="<?php echo $img; ?>" alt="Learnthan Chaffer" width="92%" min-height="100%" >
